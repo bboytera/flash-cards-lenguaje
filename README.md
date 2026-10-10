@@ -1,2 +1,2 @@
 # flash-cards-lenguaje
-tarjetas para terapia de lebguaje
+tarjetas para terapia de lenguaje
